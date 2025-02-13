@@ -49,7 +49,7 @@ var swiper = new Swiper(".review-slider",{
     el: ".swiper-pagination",
     clickable:true,
   },
-  loop:true,
+  loop:false,
   spaceBetween: 20,
   grabCursor:true,
   autoplay: {
